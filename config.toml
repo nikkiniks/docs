@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hammerden.github.io/docs'
 languageCode = 'en-us'
 title = 'Hammerden. Because, Why Not?'
 theme = "ananke"
