@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Techdoc Theme</title>
-    <link>https://docs.hammerden.com/</link>
-    <description>Recent content on Hugo Techdoc Theme</description>
+    <title>Hammerden. Because, Why Not?</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Hammerden. Because, Why Not?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2022 00:36:38 +0700</lastBuildDate><atom:link href="https://docs.hammerden.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 01:06:51 +0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://docs.hammerden.com/posts/my-first-post/</link>
-      <pubDate>Fri, 28 Oct 2022 00:36:38 +0700</pubDate>
+      <title>About</title>
+      <link>http://example.org/posts/about/</link>
+      <pubDate>Fri, 28 Oct 2022 01:06:51 +0700</pubDate>
       
-      <guid>https://docs.hammerden.com/posts/my-first-post/</guid>
-      <description></description>
+      <guid>http://example.org/posts/about/</guid>
+      <description>Who are we? Hammerden is a startup software organization that is taking it&amp;rsquo;s time to develop software that are worth taking time and risk.
+What are we working on? As a start, we are creating a platform for meal-plan businesses, the project name (as of now) is Weekly. Our testing ground and real world business partner is Lucho&amp;rsquo;s Flavor</description>
+    </item>
+    
+    <item>
+      <title>The Team</title>
+      <link>http://example.org/posts/theteam/</link>
+      <pubDate>Fri, 28 Oct 2022 01:06:51 +0700</pubDate>
+      
+      <guid>http://example.org/posts/theteam/</guid>
+      <description>Lemuel Nabong &amp;ldquo;Lem&amp;rdquo; 6 yrs DevOps Engr + 3 yrs Developer from startups that are now bankrupt to corporate companies. Wanted to retire early and make money while sleeping. Bored. Always wanted to learn Anne Nicole Gatus &amp;ldquo;Nikki&amp;rdquo; young gun, tourist student, what on earth am I doing here?! lol Someone &amp;mdash; Baka Ikaw na to join if you have the passion and interest. Sayang, really </description>
     </item>
     
   </channel>

@@ -2,18 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://docs.hammerden.com/</loc>
-    <lastmod>2022-10-28T00:36:38+07:00</lastmod>
-    <priority>0</priority>
+    <loc>http://example.org/posts/about/</loc>
+    <lastmod>2022-10-28T01:06:51+07:00</lastmod>
   </url><url>
-    <loc>https://docs.hammerden.com/posts/my-first-post/</loc>
-    <lastmod>2022-10-28T00:36:38+07:00</lastmod>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-10-28T01:06:51+07:00</lastmod>
   </url><url>
-    <loc>https://docs.hammerden.com/posts/</loc>
-    <lastmod>2022-10-28T00:36:38+07:00</lastmod>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2022-10-28T01:06:51+07:00</lastmod>
   </url><url>
-    <loc>https://docs.hammerden.com/categories/</loc>
+    <loc>http://example.org/posts/theteam/</loc>
+    <lastmod>2022-10-28T01:06:51+07:00</lastmod>
   </url><url>
-    <loc>https://docs.hammerden.com/tags/</loc>
+    <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>
