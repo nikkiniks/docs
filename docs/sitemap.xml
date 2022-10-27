@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/about/</loc>
+    <loc>https://hammerden.github.io/docs/posts/about/</loc>
     <lastmod>2022-10-28T01:06:51+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://hammerden.github.io/docs/</loc>
     <lastmod>2022-10-28T01:06:51+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://hammerden.github.io/docs/posts/</loc>
     <lastmod>2022-10-28T01:06:51+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/theteam/</loc>
+    <loc>https://hammerden.github.io/docs/posts/theteam/</loc>
     <lastmod>2022-10-28T01:06:51+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://hammerden.github.io/docs/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://hammerden.github.io/docs/tags/</loc>
   </url>
 </urlset>
