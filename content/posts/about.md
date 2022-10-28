@@ -15,3 +15,6 @@ the project name (as of now) is **Weekly**.
 Our testing ground and real world business partner is [Lucho's Flavor](https://facebook.com/luchos.flavor)
 
 
+# Something Else
+
+
