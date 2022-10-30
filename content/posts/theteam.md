@@ -12,7 +12,9 @@ draft: false
 
 # Anne Nicole Gatus "Nikki"
 
-- young gun, tourist student, what on earth am I doing here?! lol 
+- young gun, tourist student, what on earth am I doing here?! lol
+- obsessed with trying new things, a sa una lang magaling--ops
+- hates mediocrity but a mediocre herself???
 
 # Someone --- Baka Ikaw na to 
 
